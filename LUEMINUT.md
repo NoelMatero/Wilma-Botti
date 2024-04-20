@@ -1,5 +1,12 @@
 Tervetuloa! Voit ladata täältä eri Wilma-Botteja.
 
+MITEN LADATA:
+
+![image](https://github.com/NoelMatero/Wilma-Botti/assets/161951384/9d14b8f4-ce06-4ce5-ad89-6ffa034d82b3)
+
+Paina Download Zip-nappia.
+
+
 1. Jotta voit käyttää Wilma-Bottia, niin joudut ensin ostamaan tunnukset sovelluksesta Telegram: https://t.me/WilmaBot_Bot
    
 3. Kun olet ostanut tunnukset, niin voit ladata sen Wilma-Botin, johon ostit tunnukset. (Esim. Jos ostit Wilma-Botti Premiumiin tunnukset, niin voit niillä tunnuksilla käyttää vain Wilma-Botti Premiumia, eli Wilma-Botti Premium.exe tiedostoa)
