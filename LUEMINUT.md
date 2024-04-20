@@ -35,3 +35,5 @@ Suosittelen, että sinulla ei ole Wilmaa avattuna samaan aikaan, kun käytät Wi
 Muista, että olet itse vastuussa siitä, mitä teet koulun tietokoneella.
 
 Et voi käyttä mitään Wilma-Bottia 1.8.2024 jälkeen. 
+
+Telegramin tuki ei voi auttaa sinua sinun ja @WilmaBot_Bot botin välisten maksujen kanssa.
