@@ -4,7 +4,7 @@ MITEN LADATA:
 
 ![image](https://github.com/NoelMatero/Wilma-Botti/assets/161951384/9d14b8f4-ce06-4ce5-ad89-6ffa034d82b3)
 
-Paina Download Zip-nappia.
+Paina Download ZIP-nappia.
 
 
 1. Jotta voit käyttää Wilma-Bottia, niin joudut ensin ostamaan tunnukset sovelluksesta Telegram: https://t.me/WilmaBot_Bot
