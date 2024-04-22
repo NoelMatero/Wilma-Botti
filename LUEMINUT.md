@@ -17,7 +17,11 @@ HUOMIO!
 
 Voit käyttää Wilma-Botin tunnuksia vain sillä tietokoneella, jolla ensimmäisen kerran syötät tunnuksesi Wilma-Bottiin. Eli jos haluat käyttää koulun tietokonetta, niin älä syötä ostamiasi tunnuksia lataamaasi Wilma-Bottiin henkilökohtaisella tietokoneella.
 
-Minkään Wilma-Botin lataaminen ei ole mahdollista ainakaan Otaniemen lukion koulun tietokoneilla, koska Microsoft Defender SmartScreen ei tunnista mitään Wilma-Bottia ja siksi ei anna sinun ladata sitä netistä. 
+Minkään Wilma-Botin lataaminen ei ole mahdollista ainakaan Otaniemen lukion koulun tietokoneilla, koska Microsoft Defender SmartScreen ei tunnista mitään Wilma-Bottia ja siksi ei anna sinun ladata sitä netistä. Ellet ole järjestelmänvalvoja. 
+
+Jos olet järjestelmänvalvoja, niin paina Windows-painiketta, kirjoita cmd ja suorita se järjestelmänvalvojana. 
+
+
 
 Onneksi voit ladata minkä tahansa Wilma-Botin henkilökohtaiselle tietokoneelle (Vain Windowsille), koska nyt voit kytkeä Microsoft Defender SmartScreenin pois päältä: 
 
