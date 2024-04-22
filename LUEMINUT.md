@@ -28,10 +28,22 @@ Paina "Suorita Järjestelmänvalvojana"-nappia ja salli CMD-sovelluksen tehdä m
 
 Nyt sinun pitäisi olla CMD-sovelluksessa.
 
-Etsi lataamasi Wilma-Botin ZIP-kansio ja kopioi sen polku.
+Etsi lataamasi Wilma-Botin ZIP-kansio ja paina pura kaikki-nappia.
 
-![image](https://github.com/NoelMatero/Wilma-Botti/assets/161951384/8852d2d9-731d-4058-8eed-34cfdb8f3175)
+![image](https://github.com/NoelMatero/Wilma-Botti/assets/161951384/a05afb0c-5b55-4c0e-ac44-ccb96ec3d676)
 
+Mene purettuun kansioon ja kopioi sen polku.
+
+![image](https://github.com/NoelMatero/Wilma-Botti/assets/161951384/ea5c8942-3180-401b-ba6c-b576f6a168f8)
+
+Mene CMD-ohjelmaan takaisin ja tee seuraavat komennot.
+
+![image](https://github.com/NoelMatero/Wilma-Botti/assets/161951384/e76afb10-08f3-4334-bd10-d31bccff20b9)
+
+Jos haluat käynnistää Wilma-Botin, niin kirjoita: start Wilma-Botti.exe
+Jos haluat käynnistää Wilma-Botti Premiumin, niin kirjoita: start Wilma-Botti Premium.exe
+
+Ja paina Enter
 
 
 JOS ET OLE JÄRJESTELMÄNVALVOJA KOULUN TIETOKONEELLA:
