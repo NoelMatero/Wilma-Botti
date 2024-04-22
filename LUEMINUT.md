@@ -36,11 +36,16 @@ Mene purettuun kansioon ja kopioi sen polku.
 
 ![image](https://github.com/NoelMatero/Wilma-Botti/assets/161951384/ea5c8942-3180-401b-ba6c-b576f6a168f8)
 
-Mene CMD-ohjelmaan takaisin ja tee seuraavat komennot.
+Mene CMD-ohjelmaan takaisin ja kirjoita cd ja liitä kopioimasi polku
 
-![image](https://github.com/NoelMatero/Wilma-Botti/assets/161951384/e76afb10-08f3-4334-bd10-d31bccff20b9)
+![image](https://github.com/NoelMatero/Wilma-Botti/assets/161951384/0a47ab75-921e-433b-8697-46adf0ff78e2)
+
+Sen jälkeen voi tehdä komennon: "dir", joka kertoo mitä teidostoja kansion sisällä
+
+![image](https://github.com/NoelMatero/Wilma-Botti/assets/161951384/1ac525e9-e2e9-4095-aaab-417e28de6afa)
 
 Jos haluat käynnistää Wilma-Botin, niin kirjoita: start Wilma-Botti.exe
+
 Jos haluat käynnistää Wilma-Botti Premiumin, niin kirjoita: start Wilma-Botti Premium.exe
 
 Ja paina Enter
