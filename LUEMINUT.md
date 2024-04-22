@@ -15,13 +15,26 @@ Paina sen jälkeen Download ZIP-nappia.
 
 HUOMIO!
 
-Voit käyttää Wilma-Botin tunnuksia vain sillä tietokoneella, jolla ensimmäisen kerran syötät tunnuksesi Wilma-Bottiin. Eli jos haluat käyttää koulun tietokonetta, niin älä syötä ostamiasi tunnuksia lataamaasi Wilma-Bottiin henkilökohtaisella tietokoneella.
+Voit käyttää Wilma-Botin tunnuksia vain sillä tietokoneella, jolla ensimmäisen kerran syötät tunnuksesi Wilma-Bottiin. Eli jos haluat käyttää koulun tietokonetta, niin älä syötä ostamiasi tunnuksia mihinkään muuhun laitteeseen, jolla on Wilma-Botti.
 
 Minkään Wilma-Botin lataaminen ei ole mahdollista ainakaan Otaniemen lukion koulun tietokoneilla, koska Microsoft Defender SmartScreen ei tunnista mitään Wilma-Bottia ja siksi ei anna sinun ladata sitä netistä. Ellet ole järjestelmänvalvoja. 
 
-Jos olet järjestelmänvalvoja, niin paina Windows-painiketta, kirjoita cmd ja suorita se järjestelmänvalvojana. 
+
+JOS OLET JÄRJESTELMÄNVALVOJA KOULUN TIETOKONEELLA:
+
+Ensin paina Windows-näppäintä näppäimistöltä ja kirjoita CMD. 
+
+Paina "Suorita Järjestelmänvalvojana"-nappia ja salli CMD-sovelluksen tehdä muutoksia tähän laitteeseen.
+
+Nyt sinun pitäisi olla CMD-sovelluksessa.
+
+Etsi lataamasi Wilma-Botin ZIP-kansio ja kopioi sen polku.
+
+![image](https://github.com/NoelMatero/Wilma-Botti/assets/161951384/8852d2d9-731d-4058-8eed-34cfdb8f3175)
 
 
+
+JOS ET OLE JÄRJESTELMÄNVALVOJA KOULUN TIETOKONEELLA:
 
 Onneksi voit ladata minkä tahansa Wilma-Botin henkilökohtaiselle tietokoneelle (Vain Windowsille), koska nyt voit kytkeä Microsoft Defender SmartScreenin pois päältä: 
 
@@ -30,7 +43,7 @@ https://support.microsoft.com/fi-fi/windows/defender-virustentorjuntaohjelman-po
 Sen jälkeen voit USB-muistitikun kautta siirtää lataamasi Wilma-Botin koulun tietokoneelle ja käyttää sitä, jos haluat.
 
 
-OHJEET (Wilma-Botti ja Wilma-Botti Premium)
+OHJEET (Wilma-Botin ja Wilma-Botti Premiumin käyttöön)
 
 Suosittelen, että sinulla EI OLE Wilmaa avattuna samaan aikaan, kun käytät Wilma-Bottia tai Wilma-Botti Premiumia.
 
