@@ -17,10 +17,21 @@ HUOMIO!
 
 Voit käyttää Wilma-Botin tunnuksia vain sillä tietokoneella, jolla ensimmäisen kerran syötät tunnuksesi Wilma-Bottiin. Eli jos haluat käyttää koulun tietokonetta, niin älä syötä ostamiasi tunnuksia mihinkään muuhun laitteeseen, jolla on Wilma-Botti.
 
-Minkään Wilma-Botin lataaminen ei ole mahdollista ainakaan Otaniemen lukion koulun tietokoneilla, koska Microsoft Defender SmartScreen ei tunnista mitään Wilma-Bottia ja siksi ei anna sinun ladata sitä netistä. Ellet ole järjestelmänvalvoja. 
+LATAAMINEN:
 
+Ensin joudut valitettavasti lataaaman pythonin.
 
-JOS OLET JÄRJESTELMÄNVALVOJA KOULUN TIETOKONEELLA:
+![kuva](https://github.com/NoelMatero/Wilma-Botti/assets/161951384/009c1aa1-4f6d-49f6-b49f-22e9be92ef8d)
+
+Mene https://www.python.org/downloads/ ja lataa python.
+
+Klikkaa lataamaasi tiedostoa.
+
+![kuva](https://github.com/NoelMatero/Wilma-Botti/assets/161951384/e380b5dc-2ae9-48b5-b83f-f04923bfae91)
+
+Valitse add python.exe to PATH ja paina Install Now.
+
+Tämän pitäisi lataa python ja voit jatkaa.
 
 Ensin paina Windows-näppäintä näppäimistöltä ja kirjoita CMD. 
 
@@ -49,16 +60,6 @@ Jos haluat käynnistää Wilma-Botin, niin kirjoita: start Wilma-Botti.exe
 Jos haluat käynnistää Wilma-Botti Premiumin, niin kirjoita: start Wilma-Botti Premium.exe
 
 Ja paina Enter
-
-
-JOS ET OLE JÄRJESTELMÄNVALVOJA KOULUN TIETOKONEELLA:
-
-Onneksi voit ladata minkä tahansa Wilma-Botin henkilökohtaiselle tietokoneelle (Vain Windowsille), koska nyt voit kytkeä Microsoft Defender SmartScreenin pois päältä: 
-
-https://support.microsoft.com/fi-fi/windows/defender-virustentorjuntaohjelman-poistaminen-k%C3%A4yt%C3%B6st%C3%A4-windows-securityssa-99e6004f-c54c-8509-773c-a4d776b77960 
-
-Sen jälkeen voit USB-muistitikun kautta siirtää lataamasi Wilma-Botin koulun tietokoneelle ja käyttää sitä, jos haluat.
-
 
 OHJEET (Wilma-Botin ja Wilma-Botti Premiumin käyttöön)
 
