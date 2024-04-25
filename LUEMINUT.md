@@ -19,7 +19,7 @@ Voit käyttää Wilma-Botin tunnuksia vain sillä tietokoneella, jolla ensimmäi
 
 LATAAMINEN:
 
-Ensin joudut valitettavasti lataaaman pythonin.
+LATAA ENSI PYTHON !!!!!!!!!!!!!!!
 
 ![kuva](https://github.com/NoelMatero/Wilma-Botti/assets/161951384/009c1aa1-4f6d-49f6-b49f-22e9be92ef8d)
 
@@ -31,11 +31,43 @@ Klikkaa lataamaasi tiedostoa.
 
 Valitse add python.exe to PATH ja paina Install Now.
 
-Tämän pitäisi lataa python ja voit jatkaa.
+Tämän pitäisi lataa python.
+
+Pythonin ladattua paina Windows-näppäintä näppäimistöltä ja kirjoita python. Valitse "Avaa tiedostosijainti"
+
+Kopioi polku ylhäältä:
+
+![image](https://github.com/NoelMatero/Wilma-Botti/assets/161951384/99c8845d-0d8f-4c8a-9c53-e07c76e602b5)
 
 Ensin paina Windows-näppäintä näppäimistöltä ja kirjoita CMD. 
 
-Paina "Suorita Järjestelmänvalvojana"-nappia ja salli CMD-sovelluksen tehdä muutoksia tähän laitteeseen.
+Valitse CMD.
+
+Nyt sinun pitäisi olla CMD-sovelluksessa.
+
+Kirjoita "cd" ja liitä kopioimasi polku. Huom. Poista "C:".
+
+![image](https://github.com/NoelMatero/Wilma-Botti/assets/161951384/c7bf6170-9a39-4318-bafa-093edef44a97)
+
+Paina Enteriä ja kirjoita seuraava komento: pip install requests
+
+![image](https://github.com/NoelMatero/Wilma-Botti/assets/161951384/543f8012-d266-4ddb-b2be-8b7e5c64da4a)
+
+Odota, kunnes python on valmis.
+
+Sitten tee komento: python
+
+Kirjoita: import requests
+paina Enter.
+Kirjoita: exit()
+
+Voit nyt sulkea CMD-sovelluksen.
+
+Wilma-Botin Lataaminen:
+
+Ensin paina Windows-näppäintä näppäimistöltä ja kirjoita CMD. 
+
+Valitse CMD.
 
 Nyt sinun pitäisi olla CMD-sovelluksessa.
 
